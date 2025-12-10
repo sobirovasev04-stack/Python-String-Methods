@@ -1,4 +1,4 @@
-text = input('Matin kiriting: ')
+text = input('Matn kiriting: ')
 target = input('target: ')
 
 result = text.startswith(target)
